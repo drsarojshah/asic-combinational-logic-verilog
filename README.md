@@ -76,8 +76,7 @@ asic-combinational-logic-verilog
 │ ├── src/ # Verilog source files
 │ └── tb/ # Testbench files
 │
-├── images/
-│ └── waveforms/ # Simulation screenshots
+├── waveforms/ # Simulation screenshots
 │
 ├── Report/
 │ └── Saroj_Project_2.pdf
@@ -89,16 +88,16 @@ asic-combinational-logic-verilog
 ## 🖼️ Results
 
 ### 🔹 XOR Waveform
-![XOR Waveform](images/waveforms/xor_waveform.png)
+![XOR Waveform](waveforms/xor_waveform.png)
 
 ### 🔹 Full Adder Waveform
-![Full Adder Waveform](images/waveforms/fa_waveform.png)
+![Full Adder Waveform](waveforms/fa_waveform.png)
 
 ### 🔹 4-Bit Subtractor Waveform
-![Subtractor Waveform](images/waveforms/sub_waveform.png)
+![Subtractor Waveform](waveforms/sub_waveform.png)
 
 ### 🔹 4-Bit Multiplier Waveform
-![Multiplier Waveform](images/waveforms/mult_waveform.png)
+![Multiplier Waveform](waveforms/mult_waveform.png)
 
 ---
 

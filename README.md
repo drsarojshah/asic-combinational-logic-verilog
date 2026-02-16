@@ -89,16 +89,16 @@ asic-combinational-logic-verilog
 ## 🖼️ Results
 
 ### 🔹 XOR Waveform
-![XOR Waveform](waveforms/xor_waveform.png)
+![XOR Waveform](images/waveforms/xor_waveform.png)
 
 ### 🔹 Full Adder Waveform
-![Full Adder Waveform](waveforms/fa_waveform.png)
+![Full Adder Waveform](images/waveforms/fa_waveform.png)
 
 ### 🔹 4-Bit Subtractor Waveform
-![Subtractor Waveform](waveforms/sub_waveform.png)
+![Subtractor Waveform](images/waveforms/sub_waveform.png)
 
 ### 🔹 4-Bit Multiplier Waveform
-![Multiplier Waveform](waveforms/mult_waveform.png)
+![Multiplier Waveform](images/waveforms/mult_waveform.png)
 
 ---
 

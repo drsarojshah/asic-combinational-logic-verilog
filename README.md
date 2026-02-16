@@ -70,19 +70,35 @@ A − B = A + (B' + 1)
 
 ## 📂 Project Structure
 
+asic-combinational-logic-verilog
+│
 ├── Code/
-│	├── src/
-│	├── tb/
+│ ├── src/ # Verilog source files
+│ └── tb/ # Testbench files
+│
 ├── images/
-│	├── waveforms/
+│ └── waveforms/ # Simulation screenshots
+│
 ├── Report/
-│	└──Report/Saroj_Project_2.pdf
+│ └── Saroj_Project_2.pdf
+│
 └── README.md
 
 ---
 
 ## 🖼️ Results
-[images](waveforms)
+
+### 🔹 XOR Waveform
+![XOR Waveform](waveforms/xor_waveform.png)
+
+### 🔹 Full Adder Waveform
+![Full Adder Waveform](waveforms/fa_waveform.png)
+
+### 🔹 4-Bit Subtractor Waveform
+![Subtractor Waveform](waveforms/sub_waveform.png)
+
+### 🔹 4-Bit Multiplier Waveform
+![Multiplier Waveform](waveforms/mult_waveform.png)
 
 ---
 

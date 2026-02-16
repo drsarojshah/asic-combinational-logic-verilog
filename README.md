@@ -75,12 +75,9 @@ asic-combinational-logic-verilog
 ├── Code/
 │ ├── src/ # Verilog source files
 │ └── tb/ # Testbench files
-│
-├── waveforms/ # Simulation screenshots
-│
+├── waveforms/ # Simulation screenshots│
 ├── Report/
-│ └── Saroj_Project_2.pdf
-│
+│ └── Saroj_Project_2.pdf│
 └── README.md
 
 ---

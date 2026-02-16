@@ -82,7 +82,7 @@ A − B = A + (B' + 1)
 ---
 
 ## 🖼️ Results
-![images](waveforms)
+[images](waveforms)
 
 ---
 

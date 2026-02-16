@@ -109,5 +109,5 @@ asic-combinational-logic-verilog
 
 Saroj Shah  
 📧 engsarojshah@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/saroj-s-763265226  
+🔗 LinkedIn: https://linkedin.com/in/sarojkshah  
 🌐 Portfolio: https://drsarojshah.github.io
